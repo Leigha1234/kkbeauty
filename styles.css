@@ -6,3 +6,5 @@
 .nav.scrolled .header-logo{height:58px}
 @media(max-width:700px){.brand{max-width:205px}.header-logo{height:55px}.nav.scrolled .header-logo{height:51px}}
 @media(max-width:430px){.brand{max-width:170px}.header-logo{height:48px}}
+
+.photo-credits{font-size:12px;letter-spacing:.04em;opacity:.8;padding:22px 0 12px;text-align:center}
